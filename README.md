@@ -1,5 +1,5 @@
 # Portfolio-page
-Created a front-end interactive page with my background - The front-end code only
+Created a front-end interactive page with my background information - The front-end code only
 --------------------------------------------------------------------------------------------------------------------------
 WEB-PAGE DEMONSTRATION/prototype
 --------------------------------------------------------------------------------------------------------------------------
