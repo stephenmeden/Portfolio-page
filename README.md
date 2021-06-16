@@ -1,7 +1,7 @@
 # Portfolio-page
 Created a front-end interactive page with my background information - The front-end code only
 --------------------------------------------------------------------------------------------------------------------------
-WEB-PAGE DEMONSTRATION/prototype
+WEB-PAGE DEMONSTRATION/PROTOTYPE
 --------------------------------------------------------------------------------------------------------------------------
 1) The page loads 
 2) Click the "Open login" button on the header tab - the profile icon on the far right of the header tab
